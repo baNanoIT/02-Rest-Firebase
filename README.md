@@ -1,6 +1,6 @@
 # Información del proyecto
 ## 02-Rest-Firebase
-10. CREAR UN ENDPOINT DE CREARUSUARIO
+10. CREAR UN ENDPOINT DE PROYECTOS FIREBASE
 
 ## Descripción del proyecto
 Modificar el proyecto 02Rest para que permita la creación de proyectos desde insomnia.
